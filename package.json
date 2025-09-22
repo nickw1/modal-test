@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@lazarv/react-server": "^0.0.0-experimental-cf28312-20250827-822bd17c",
+    "react-modal": "^3.16.3"
+  },
+  "overrides": {
+    "react-modal": {
+      "react": "0.0.0-experimental-bdb4a96f-20250801",
+      "react-dom": "0.0.0-experimental-bdb4a96f-20250801"
+    }
+  }
+}
